@@ -9,7 +9,7 @@ I’m passionate about turning data into actionable insights and building projec
 
 - **US Superstore Analysis (Excel)**  
   Analyzed retail sales data to uncover trends, product performance, and revenue insights. Includes dashboards and business recommendations.  
-  [View Repo](https://github.com/jahanvi2912/US-Superstore-Analysis)
+  [View Repo](https://github.com/jahanvi2912/US-Superstore-Excel-Business-Analysis)
 
 - **E-commerce SQL Analysis**  
   Explored e-commerce sales data using SQL queries to find customer behavior patterns and top-performing products. Includes charts and key insights.  
@@ -17,7 +17,7 @@ I’m passionate about turning data into actionable insights and building projec
 
 - **HR Attrition Analysis**  
   Investigated employee attrition trends using HR data, identified risk factors, and provided actionable HR analytics solutions.  
-  [View Repo](https://github.com/jahanvi2912/hr-attrition-analysis)
+  [View Repo](https://github.com/jahanvi2912/HR-Attrition-Analysis-Excel)
 
 ---
 
