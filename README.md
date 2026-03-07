@@ -23,17 +23,19 @@ I’m passionate about turning data into actionable insights and building projec
 
 ## 🌱 Skills & Tools
 
-- **Analytics & BI:** SQL, Excel, Power BI, HR Analytics, Business Analytics  
-- **AI & Data:** AI Fundamentals (IBM), Generative AI applications  
-- **Other Tools:** Data visualization, dashboards, reports
+- Analytics & BI: SQL, Excel, Power BI, HR Analytics, Business Analytics
+- AI & Data: AI Fundamentals (IBM), Generative AI applications, Large Language Models (LLMs)
+- Other Tools: Data visualization, dashboards, reports
 
 ---
 
 ## 📄 Certifications
 
-- IBM AI Fundamentals  
-- Power BI, Excel, SQL, HR Analytics, Business Analytics  
-- Generative AI Certificate  
+- IBM AI Fundamentals
+- Introduction to Large Language Models (IBM)
+- Cisco Networking Academy – Creating Compelling Reports
+- Power BI, Excel, SQL, HR Analytics, Business Analytics
+- Generative AI Certificate
 
 ---
 
