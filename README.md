@@ -1,5 +1,5 @@
 # Hi, I’m Jahanvi 👋
-Aspiring Data Analyst | SQL, Excel, Power BI | HR & Business Analytics | AI Fundamentals Certified
+Aspiring Data Analyst | SQL, Excel, Power BI | HR & Business Analytics | AI & Generative AI Fundamentals Certified
 
 I’m passionate about turning data into actionable insights and building projects that solve real-world problems. I love exploring analytics, business intelligence, and AI tools to deliver meaningful results.
 
