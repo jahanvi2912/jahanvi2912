@@ -14,8 +14,8 @@ I enjoy working on real-world datasets to identify patterns, optimize processes,
 - 📊 Focused on Business Analysis, Product Strategy & Process Optimization  
 - 📈 Hands-on experience with Excel, SQL, Power BI & Process Mining  
 - 🧠 Strong in analytical thinking, problem-solving, and storytelling with data  
-- 🎯 Actively building projects to solve business problems  
-
+- 🎯 Actively building projects to solve business problems
+- 🤖 Exploring generative AI, prompt engineering, and practical AI applications using Claude
 ---
 
 ## 🛠 Skills  
@@ -23,28 +23,35 @@ I enjoy working on real-world datasets to identify patterns, optimize processes,
 **Business & Analytics**  
 Business Analysis | KPI Tracking | Market Research | A/B Testing | Stakeholder Management  
 
-**Technical Skills**  
-Microsoft Excel (Advanced) | SQL | Power BI  
+**Technical Skills**
+Microsoft Excel (Advanced) | SQL | Power BI | Python  
+Pandas | NumPy | Matplotlib | Seaborn | Google Colab  
+Prompt Engineering | Generative AI | Claude
 
 **Process Intelligence**  
 Process Mining (Celonis) | Process Optimization | Workflow Analysis  
 
 **Core Strengths**  
-Data Visualization | Dashboarding | Analytical Thinking | Problem Solving  
-
+Data Visualization | Dashboarding | Analytical Thinking | Prompt Engineering | Problem Solving
 ---
 
 ## 📂 Projects  
 
-- 📊 HR Attrition Analysis  
+### 🛍 Store Data Analysis Project
+- Performed exploratory data analysis on retail store data using Python in Google Colab.
+- Used Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, analysis, and visualization.
+- Derived insights on sales trends, customer behavior, and business performance.
+  🔗 Project Repository: https://github.com/jahanvi2912/store-data-analysis-project
+
+### 📊 HR Attrition Analysis  
   Analyzed employee data to identify key attrition drivers and improve retention strategies.
    🔗 https://github.com/jahanvi2912/HR-Attrition-Analysis-Excel
 
-- 🛒 E-commerce Customer Segmentation  
+### 🛒 E-commerce Customer Segmentation  
   Performed customer analysis and provided insights for targeted marketing and revenue optimization.
   🔗https://github.com/jahanvi2912/ecommerce-sql-analysis
 
-- 📈 Superstore Profitability Analysis  
+### 📈 Superstore Profitability Analysis  
   Evaluated sales and margin data to recommend pricing and operational improvements.
   🔗https://github.com/jahanvi2912/US-Superstore-Excel-Business-Analysis
 
@@ -58,6 +65,7 @@ Data Visualization | Dashboarding | Analytical Thinking | Problem Solving
 https://github.com/jahanvi2912/certificates  
 
 **Highlighted Certifications:**  
+- AI Fluency: Framework & Foundations — Anthropic
 - Celonis Foundations (Process Mining)  
 - Process Mining: From Theory to Execution  
 - Power BI – Simplilearn  
@@ -72,6 +80,7 @@ https://github.com/jahanvi2912/certificates
 ✔ Strong understanding of business processes and optimization  
 ✔ Hands-on experience with analytical tools and dashboards  
 ✔ Structured thinking and problem-solving approach  
+✔ Strong foundation in analytics, automation, and AI-assisted problem solving
 
 ---
 
