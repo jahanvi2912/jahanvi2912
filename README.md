@@ -33,6 +33,7 @@ Process Mining (Celonis) | Process Optimization | Workflow Analysis
 
 **Core Strengths**  
 Data Visualization | Dashboarding | Analytical Thinking | Prompt Engineering | Problem Solving
+
 ---
 
 ## 📂 Projects  
